@@ -1,40 +1,5 @@
 <template>
-<div class="container base-color base-text text-center fill">
-  <div class="row" style="margin: 20px">
-      <p class="text-center">The Wedding Of</p>
-      <h1 class="text-center harrington">Finti & Boby</h1>
-  </div>
-  <div class="row justify-content-center" style="margin: 20px">
-    <button type="button" class="btn btn-color btn-circle btn-xl base-text" id="btn">JOIN</button>
-  </div>
-  <div class="row" style="margin: 20px">
-    <p>Minggu, 22 Mei 2022</p>
-  </div>
-  <div class="row" style="margin: 20px">
-    <p>
-      Kepada Yth.
-      <br>
-      Bapak/ Ibu/ Saudara/ i
-    </p>
-  </div>
-  <div class="row">
-    <div class="undangan ">
-      <p>
-        {{this.$route.query.nama}}
-        <br>
-          &
-        <br>
-        Pasangan
-      </p>
-      
-    </div>
-  </div>
-  <div class="row">
-    <p><small>Mohon maaf apabila ada kesalahan dalam penulisan nama & gelar</small></p>
-  </div>
-
-</div>
-
+<router-view></router-view>
 </template>
 
 <style>
