@@ -1,5 +1,7 @@
 <template>
-
+<audio autoplay loop  id="playAudio">
+    <source src="@/assets/lagu.mp3">
+</audio>
 
 <div class="container base-color base-text text-center fill">
   <div class="row" style="margin: 20px">
