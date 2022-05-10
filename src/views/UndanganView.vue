@@ -96,7 +96,7 @@
     </div>
     <div class="row justify-content-md-center" id="location">
       <div class="col col-md-6">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d997.0574391281162!2d103.6532713!3d-1.6168801!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5f6bf411b69ce201!2zMcKwMzcnMDAuMyJTIDEwM8KwMzknMTIuNiJF!5e0!3m2!1sen!2sid!4v1652206280072!5m2!1sen!2sid" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d997.0574391281162!2d103.6532713!3d-1.6168801!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5f6bf411b69ce201!2zMcKwMzcnMDAuMyJTIDEwM8KwMzknMTIuNiJF!5e0!3m2!1sen!2sid!4v1652206280072!5m2!1sen!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
     <div class="row ustify-content-md-center" style="margin: 20px">
