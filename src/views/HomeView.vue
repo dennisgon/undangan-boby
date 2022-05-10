@@ -1,4 +1,5 @@
 <template>
+
 <div class="container base-color base-text text-center fill">
   <div class="row" style="margin: 20px">
       <p class="text-center">The Wedding Of</p>
