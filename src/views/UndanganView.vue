@@ -2,7 +2,7 @@
   <audio autoplay loop  id="playAudio">
       <source src="@/assets/lagu.mp3">
   </audio>
-  <div class="container base-color base-text text-center" style="padding-top:30px">
+  <div class="container base-color base-text text-center pt-2">
     <div class="row justify-content-md-center">
       <div class="col col-4">
         <a href="#schedule" class="menu">Schedule</a>
@@ -14,7 +14,7 @@
         <a href="#location" class="menu">Location</a>
       </div>
     </div>
-    <div class="row">
+    <div class="row my-5">
       <img src="@/assets/bismillah-png-20.png" class="gambar"/>
     </div>  
     <div class="row">
@@ -42,7 +42,7 @@
       <h1 class="harrington">Boby Supriadi</h1>
       <p>Putra dari Bapak M. Sandi & Ibu Suhana</p>
     </div>
-    <div class="row justify-content-md-center" id="schedule">
+    <div class="row justify-content-md-center my-5" id="schedule">
       <div class="col col-md-3 border-top border-right border-bottom">
         Akad Nikah
         <br>
@@ -100,13 +100,13 @@
       </div>
     </div>
     <div class="row ustify-content-md-center" style="margin: 20px">
-      <div class="col col-lg-4" style="padding-top:70px">
+      <div class="col col-lg-4 pt-lg-5 mt-2">
         <img src="@/assets/Fot3.png" class="foto"/>
       </div>
-      <div class="col col-lg-4">
+      <div class="col col-lg-4 mt-2">
         <img src="@/assets/DAFF6648.jpg" class="foto"/>
       </div>
-      <div class="col col-lg-4" style="padding-top:70px">
+      <div class="col col-lg-4  pt-lg-5 mt-2">
         <img src="@/assets/DAFF6644.jpg" class="foto" />
       </div>
 
