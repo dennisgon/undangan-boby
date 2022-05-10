@@ -32,7 +32,6 @@
   <div class="row">
     <p><small>Mohon maaf apabila ada kesalahan dalam penulisan nama & gelar</small></p>
   </div>
-
 </div>
 </template>
 

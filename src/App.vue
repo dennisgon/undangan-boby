@@ -1,6 +1,18 @@
 <template>
 <router-view></router-view>
 </template>
+<script>
+export default {
+    create() {
+        window.addEventListener("load", this.onWindowLoad);
+    },
+    methods: {
+        onWindowLoad() {
+            console.log("window load event");
+        },
+    },
+};
+</script>
 
 <style>
   @font-face {
