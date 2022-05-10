@@ -1,5 +1,5 @@
 <template>
-  <div class="container base-color base-text text-center">
+  <div class="container base-color base-text text-center" style="padding-top:30px">
     <div class="row justify-content-md-center">
       <div class="col col-4">
         <a href="#schedule" class="menu">Schedule</a>

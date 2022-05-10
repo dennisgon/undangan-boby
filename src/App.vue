@@ -1,5 +1,7 @@
 <template>
-
+<audio autoplay loop  id="playAudio">
+    <source src="@/assets/lagu.mp3">
+</audio>
 <router-view></router-view>
 </template>
 <script>
@@ -8,11 +10,7 @@ export default {
         window.addEventListener("load", this.onWindowLoad);
     },
     methods: {
-      startPlay() {
-        //play A
-        this.$refs.click1.play();
-        console.log("click1 is playing！")
-      }
+     
     },
 };
 </script>
