@@ -1,7 +1,4 @@
 <template>
-<audio autoplay loop  id="playAudio">
-    <source src="@/assets/lagu.mp3">
-</audio>
 <router-view></router-view>
 </template>
 <script>
