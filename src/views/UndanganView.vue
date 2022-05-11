@@ -125,7 +125,7 @@
   }
   @font-face {
     font-family: "frechscript";
-    src: local("Harrington"),url(./fonts/FrenchScriptMT.ttf) format("truetype");
+    src: local("Harrington"),url(./fonts/frenchscriptmt-webfont.woff2) format("truetype");
   }
   .menu{
     font-family: "frechscript";
