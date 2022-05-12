@@ -1,4 +1,7 @@
 <template>
+<audio autoplay loop  id="playAudio">
+    <source src="@/assets/lagu.mp3">
+</audio>
   <div class="container base-color base-text text-center pt-2">
     <div class="row justify-content-md-center">
       <div class="col col-4">
@@ -39,22 +42,22 @@
       <h1 class="harrington">Boby Supriadi</h1>
       <p>Putra dari Bapak M. Sandi & Ibu Suhana</p>
     </div>
-    <div class="row justify-content-md-center my-5" id="schedule">
+    <div class="row justify-content-md-center my-5 py-3" id="schedule">
       <div class="col col-md-3 border-top border-right border-bottom">
-        Akad Nikah
+        <b>Akad Nikah</b>
         <br>
         <br>
         09:00 WIB
       </div>
       <div class="col col-md-3 border">
-        Minggu
+        <b>Minggu</b>
         <br>
         <span  class="h1">22</span>
         <br>
-        Mei 2022
+        <b>Mei 2022</b>
       </div>
       <div class="col col-md-3 border-top border-right border-bottom">
-        Resepsi
+        <b>Resepsi</b>
         <br>
         11:00 WIB
         <br>
@@ -84,14 +87,14 @@
     <div class="row">
       <p class="harrington">Finti & Boby</p>
     </div>
-    <div class="row">
+    <div class="row py-3" id="location">
       <p>
         Berlokasi Di Lorong Guyub, Jl. Lingkar Timur 1
         <br>
         No. 158 Rt. 04 Kel. Ekajaya Jambi
       </p>
     </div>
-    <div class="row justify-content-md-center" id="location">
+    <div class="row justify-content-md-center  " id="location">
       <div class="col col-md-6">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d997.0574391281162!2d103.6532713!3d-1.6168801!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5f6bf411b69ce201!2zMcKwMzcnMDAuMyJTIDEwM8KwMzknMTIuNiJF!5e0!3m2!1sen!2sid!4v1652206280072!5m2!1sen!2sid" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
