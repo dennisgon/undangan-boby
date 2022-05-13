@@ -4,14 +4,14 @@
 </audio>
   <div class="container base-color base-text text-center pt-2">
     <div class="row justify-content-md-center">
-      <div class="col col-4">
-        <a href="#schedule" class="menu">Schedule</a>
+      <div class="col col-4 pt-3">
+        <a href="#schedule" class="menu ">Schedule</a>
       </div>
-      <div class="col col-4">
+      <div class="col col-4 pt-1">
         <img src="@/assets/logo.png" class="logo"/>
       </div>
-      <div class="col col-4">
-        <a href="#location" class="menu">Location</a>
+      <div class="col col-4 pt-3">
+        <a href="#location" class="menu ">Location</a>
       </div>
     </div>
     <div class="row my-5">
